@@ -1,0 +1,59 @@
+.global {
+    padding: 50px
+}
+
+.subGlobal {
+    width: 100%;
+    text-align: center;
+}
+
+.displayFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card {
+    margin:5%;
+    background-color: white;
+    padding:30px;
+    color: black;
+    width:calc(33.333% - 5%);
+    border-radius: 10px;
+    position: relative;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.ul {
+    list-style-image: url('../public/images/circle.svg');
+}
+
+.statut {
+    position: absolute;
+    top:10px;
+    right:10px;
+    padding:3px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.card .active {
+    color: rgb(1, 75, 1);
+    background-color: rgb(170, 230, 170);
+}
+
+.card .inactive {
+    color: rgb(92, 89, 7);
+    background-color: rgb(238, 210, 116);
+}
+
+.card .pending {
+    color: rgb(75, 57, 164);
+    background-color: rgb(181, 171, 233);
+}

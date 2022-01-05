@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+
+@font-face {
+  font-family: 'Helvetica-Extend';
+  src: url('HelveticaNeueLTCom-LtEx-992ef09b73c0f26c29ad31f3c1741238.woff2') format('woff2')
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('Helvetica.ttf') format('ttf'),
+  url('HelveticaNeueLTCom-LtEx-992ef09b73c0f26c29ad31f3c1741238.woff2') format('woff2')
+
+}
+
+.headingGlobal {
+  width:100%;
+  height:calc(100vh - 58.8px);
+  background-image: url('../public/images/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-left: 20px;
+}
+  
+  .headingLg {
+    font-size: 1.5rem;
+    line-height: 1.4;
+    margin: 1rem 0;
+  }
+  
+  .headingMd {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
+  .padding1px {
+    padding-top: 1px;
+  }
+  
+  .list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .listItem {
+    margin: 0 0 1.25rem;
+  }
+  
+  .lightText {
+    color: #666;
+  }
+
+  .h1 {
+    margin:0;
+    padding:0;
+    font-family: 'Helvetica-Extend';
+    font-size: 40pt;
+  }
+
+  .colorWhite {
+    color:white;
+  }
+
+  .colorText {
+    color:rgb(248, 182,140);
+  }
+
+  .importantButton {
+    background-color:rgb(56, 199, 212);
+    color: rgb(39,38,44);
+    padding:5px;
+    border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -ms-border-radius: 10px ;
+    -o-border-radius: 10px ;
+}
+
+.lightButton {
+  border:1px solid rgb(56, 199, 212);
+  color:rgb(56, 199, 212);
+  padding:5px;
+  border-radius: 10px;
+  margin-left:10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.titleBox {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+}
+
+.backgroundSuite {
+  background-color: rgb(26,23,50);
+  color:white
+}
+
+.displayFlex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.textPresentation {
+  max-width: 40%;
+  width: 40%;
+}
+
+.imageExplication {
+  max-width: 50%;
+  width: 50%;
+  text-align: center;
+}
+
+.h2 {
+  font-size: 30pt;
+}
+
+.h3 {
+  font-size: 23pt;
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 15</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-15" transform="translate(1.000000, 1.000000)">
+            <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="5" cy="5" r="5"></circle>
+            <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="5" cy="5" r="4.25925926"></circle>
+            <g id="Group-12" transform="translate(1.296296, 1.296296)" fill="url(#radialGradient-1)">
+                <ellipse id="Oval" cx="3.67640368" cy="3.70240786" rx="3.67640368" ry="3.70240786"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

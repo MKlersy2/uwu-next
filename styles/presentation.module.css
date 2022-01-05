@@ -1,0 +1,26 @@
+.h2 {
+    font-size: 30pt;
+}
+
+.grid {
+    display: flex;
+    padding: 50px 100px;
+}
+
+.boxText {
+    align-self: center;
+    width: 40%;
+}
+
+.paragraphe {
+    padding:0;
+    margin:0;
+}
+
+.lightParagraphe {
+    font-weight: 300;
+    color: lightgrey;
+    font-size: 10pt;
+    padding:0;
+    margin: 0;
+}

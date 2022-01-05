@@ -1,0 +1,23 @@
+.WorldMap {
+    animation:rotateMoves 7s infinite linear;
+    -webkit-animation:rotateMoves 7s infinite linear;
+    display: inline-block;
+    text-shadow: 200px 0 black, calc(200px * 2) 0 black, calc(200px * 3) 0 black, calc(200px * 4) 0 black;
+}
+
+@keyframes rotateMoves {
+    from {
+        transform: translateX(0);
+        -webkit-transform: translateX(0);
+        -moz-transform: translateX(0);
+        -ms-transform: translateX(0);
+        -o-transform: translateX(0);
+} 
+    to {
+        transform: translateX(-211px);
+        -webkit-transform: translateX(-211px);
+        -moz-transform: translateX(-211px);
+        -ms-transform: translateX(-211px);
+        -o-transform: translateX(-211px);
+}
+}

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="745px" height="339px" viewBox="0 0 745 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.0804142%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="19.1213471%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-3">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-4">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-5">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-6">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-7">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-8">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#3F3093" offset="0%"></stop>
+            <stop stop-color="#3F3093" offset="79.1461286%"></stop>
+            <stop stop-color="#3F3093" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-10">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-11">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-12">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-13">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50.3536633%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.992976),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-14">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#7664D0" offset="0%"></stop>
+            <stop stop-color="#7664D0" offset="79.1461286%"></stop>
+            <stop stop-color="#3F3093" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="52.2186138%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.957513),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-16">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="52.2186138%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.957513),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-17">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="52.2186138%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.957513),rotate(90.000000),translate(-0.500000,-0.500000)" id="radialGradient-18">
+            <stop stop-color="#ABABAF" offset="0%"></stop>
+            <stop stop-color="#5B4EA4" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-18">
+            <g id="Group-16">
+                <path d="M22,0 L219,0 C231.150264,-2.23196738e-15 241,9.8497355 241,22 L241,339 L0,339 L0,22 C-1.48797825e-15,9.8497355 9.8497355,2.23196738e-15 22,0 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <text id="Content" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="23" font-weight="400" letter-spacing="0.1592308" fill="#FFFFFF" text-decoration="underline">
+                    <tspan x="33.5651922" y="37">Content</tspan>
+                </text>
+                <g id="Group-15" transform="translate(46.000000, 133.000000) rotate(30.000000) translate(-46.000000, -133.000000) translate(19.000000, 106.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="27" cy="27" r="27"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="27" cy="27" r="23"></circle>
+                    <g id="Group-12" transform="translate(7.000000, 7.000000)">
+                        <ellipse id="Oval" fill="url(#radialGradient-2)" cx="19.8525799" cy="19.9930024" rx="19.8525799" ry="19.9930024"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="13.8968059" cy="11.9958015" rx="3.97051597" ry="3.99860049"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="14.8894349" cy="26.9905533" rx="4.96314496" ry="4.99825061"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="28.7862408" cy="18.9933523" rx="6.94840295" ry="6.99755086"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-15" opacity="0.8323248" transform="translate(189.000000, 226.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="16" cy="16" r="16"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="16" cy="16" r="13.6296296"></circle>
+                    <g id="Group-12" transform="translate(4.148148, 4.148148)">
+                        <ellipse id="Oval" fill="url(#radialGradient-3)" cx="11.7644918" cy="11.8477052" rx="11.7644918" ry="11.8477052"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="8.23514424" cy="7.10862309" rx="2.35289835" ry="2.36954103"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="8.82336882" cy="15.994402" rx="2.94112294" ry="2.96192629"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="17.0585131" cy="11.2553199" rx="4.11757212" ry="4.1466968"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-15" transform="translate(110.000000, 175.000000) rotate(300.000000) translate(-110.000000, -175.000000) translate(89.000000, 154.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="21" cy="21" r="21"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="21" cy="21" r="17.8888889"></circle>
+                    <g id="Group-12" transform="translate(5.444444, 5.444444)">
+                        <ellipse id="Oval" fill="url(#radialGradient-4)" cx="15.4408954" cy="15.550113" rx="15.4408954" ry="15.550113"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="10.8086268" cy="9.33006781" rx="3.08817909" ry="3.1100226"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="11.5806716" cy="20.9926526" rx="3.86022386" ry="3.88752825"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="22.3892984" cy="14.7726074" rx="5.4043134" ry="5.44253956"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-15" transform="translate(192.500000, 146.500000) rotate(156.000000) translate(-192.500000, -146.500000) translate(164.000000, 118.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="28.5" cy="28.5" r="28.5"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="28.5" cy="28.5" r="24.2777778"></circle>
+                    <g id="Group-12" transform="translate(7.388889, 7.388889)">
+                        <ellipse id="Oval" fill="url(#radialGradient-5)" cx="20.955501" cy="21.1037248" rx="20.955501" ry="21.1037248"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="14.6688507" cy="12.6622349" rx="4.19110019" ry="4.22074496"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="15.7166257" cy="28.4900285" rx="5.23887524" ry="5.2759312"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="30.3854764" cy="20.0485386" rx="7.33442533" ry="7.38630368"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-15" opacity="0.93329584" transform="translate(133.000000, 201.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="20.5" cy="20.5" r="20.5"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="20.5" cy="20.5" r="17.462963"></circle>
+                    <g id="Group-12" transform="translate(5.314815, 5.314815)">
+                        <ellipse id="Oval" fill="url(#radialGradient-6)" cx="15.0732551" cy="15.1798722" rx="15.0732551" ry="15.1798722"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="10.5512786" cy="9.10792334" rx="3.01465101" ry="3.03597445"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="11.3049413" cy="20.4928275" rx="3.76831377" ry="3.79496806"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="21.8562199" cy="14.4208786" rx="5.27563928" ry="5.31295528"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-15" transform="translate(41.000000, 210.000000) rotate(130.000000) translate(-41.000000, -210.000000) translate(18.000000, 187.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="23" cy="23" r="23"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="23" cy="23" r="19.5925926"></circle>
+                    <g id="Group-12" transform="translate(5.962963, 5.962963)">
+                        <ellipse id="Oval" fill="url(#radialGradient-7)" cx="16.9114569" cy="17.0310762" rx="16.9114569" ry="17.0310762"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="11.8380198" cy="10.2186457" rx="3.38229138" ry="3.40621523"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="12.6835927" cy="22.9919528" rx="4.22786423" ry="4.25776904"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="24.5216125" cy="16.1795224" rx="5.91900992" ry="5.96087666"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-15" opacity="0.822454543" transform="translate(64.000000, 242.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="16" cy="16" r="16"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="16" cy="16" r="13.6296296"></circle>
+                    <g id="Group-12" transform="translate(4.148148, 4.148148)">
+                        <ellipse id="Oval" fill="url(#radialGradient-3)" cx="11.7644918" cy="11.8477052" rx="11.7644918" ry="11.8477052"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="8.23514424" cy="7.10862309" rx="2.35289835" ry="2.36954103"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="8.82336882" cy="15.994402" rx="2.94112294" ry="2.96192629"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="17.0585131" cy="11.2553199" rx="4.11757212" ry="4.1466968"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-15" opacity="0.629673549" transform="translate(46.000000, 296.000000) scale(-1, -1) translate(-46.000000, -296.000000) translate(34.000000, 284.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="12" cy="12" r="12"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="12" cy="12" r="10.2222222"></circle>
+                    <g id="Group-12" transform="translate(3.111111, 3.111111)">
+                        <ellipse id="Oval" fill="url(#radialGradient-8)" cx="8.82336882" cy="8.88577887" rx="8.82336882" ry="8.88577887"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="6.17635818" cy="5.33146732" rx="1.76467376" ry="1.77715577"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="6.61752662" cy="11.9958015" rx="2.20584221" ry="2.22144472"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="12.7938848" cy="8.44148992" rx="3.08817909" ry="3.1100226"></ellipse>
+                    </g>
+                </g>
+                <g id="Group-15" opacity="0.605208624" transform="translate(166.000000, 308.000000) scale(-1, -1) translate(-166.000000, -308.000000) translate(154.000000, 296.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="12" cy="12" r="12"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="12" cy="12" r="10.2222222"></circle>
+                    <g id="Group-12" transform="translate(3.111111, 3.111111)">
+                        <ellipse id="Oval" fill="url(#radialGradient-8)" cx="8.82336882" cy="8.88577887" rx="8.82336882" ry="8.88577887"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="6.17635818" cy="5.33146732" rx="1.76467376" ry="1.77715577"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="6.61752662" cy="11.9958015" rx="2.20584221" ry="2.22144472"></ellipse>
+                        <ellipse id="Oval" fill="#D8D8D8" cx="12.7938848" cy="8.44148992" rx="3.08817909" ry="3.1100226"></ellipse>
+                    </g>
+                </g>
+                <text id="Create-content,-post" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="15" font-weight="300" letter-spacing="0.1038462" fill="#FFFFFF">
+                    <tspan x="34.4381625" y="62.8745583">Create content, post </tspan>
+                    <tspan x="34.4381625" y="80.8745583">with small fees</tspan>
+                </text>
+            </g>
+            <g id="Group-17" transform="translate(252.000000, 29.000000)">
+                <path d="M22,0 L219,0 C231.150264,-2.23196738e-15 241,9.8497355 241,22 L241,310 L0,310 L0,22 C-1.48797825e-15,9.8497355 9.8497355,2.23196738e-15 22,0 Z" id="Rectangle" fill="url(#linearGradient-9)"></path>
+                <g id="Group-15" transform="translate(19.882686, 98.882686)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="27" cy="27" r="27"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="27" cy="27" r="23"></circle>
+                    <g id="Group-12" transform="translate(7.000000, 7.000000)" fill="url(#radialGradient-2)">
+                        <ellipse id="Oval" cx="19.8525799" cy="19.9930024" rx="19.8525799" ry="19.9930024"></ellipse>
+                    </g>
+                    <polygon id="Rectangle" fill="#30933B" transform="translate(27.035946, 23.035946) rotate(-45.000000) translate(-27.035946, -23.035946) " points="14.556542 14.4172184 18.8659058 14.4172184 18.8659058 27.1595358 39.51535 27.1595358 39.51535 31.6546735 14.556542 31.6546735"></polygon>
+                </g>
+                <g id="Group-15" transform="translate(109.000000, 146.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="24" cy="24" r="24"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="24" cy="24" r="20.4444444"></circle>
+                    <g id="Group-12" transform="translate(6.222222, 6.222222)" fill="url(#radialGradient-10)">
+                        <ellipse id="Oval" cx="17.6467376" cy="17.7715577" rx="17.6467376" ry="17.7715577"></ellipse>
+                    </g>
+                    <polygon id="Rectangle" fill="#30933B" transform="translate(24.031952, 20.476396) rotate(-45.000000) translate(-24.031952, -20.476396) " points="12.9391484 12.8153053 16.769694 12.8153053 16.769694 24.1418096 35.1247555 24.1418096 35.1247555 28.1374876 12.9391484 28.1374876"></polygon>
+                </g>
+                <g id="Group-15" transform="translate(166.000000, 80.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="27" cy="27" r="27"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="27" cy="27" r="23"></circle>
+                    <g id="Group-12" transform="translate(7.000000, 7.000000)" fill="url(#radialGradient-2)">
+                        <ellipse id="Oval" cx="19.8525799" cy="19.9930024" rx="19.8525799" ry="19.9930024"></ellipse>
+                    </g>
+                    <polygon id="Rectangle" fill="#30933B" transform="translate(27.035946, 23.035946) rotate(-45.000000) translate(-27.035946, -23.035946) " points="14.556542 14.4172184 18.8659058 14.4172184 18.8659058 27.1595358 39.51535 27.1595358 39.51535 31.6546735 14.556542 31.6546735"></polygon>
+                </g>
+                <g id="Group-15" opacity="0.834491548" transform="translate(178.000000, 189.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="21" cy="21" r="21"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="21" cy="21" r="17.8888889"></circle>
+                    <g id="Group-12" transform="translate(5.444444, 5.444444)" fill="url(#radialGradient-4)">
+                        <ellipse id="Oval" cx="15.4408954" cy="15.550113" rx="15.4408954" ry="15.550113"></ellipse>
+                    </g>
+                    <polygon id="Rectangle" fill="#30933B" transform="translate(21.027958, 17.916847) rotate(-45.000000) translate(-21.027958, -17.916847) " points="11.3217549 11.2133921 14.6734823 11.2133921 14.6734823 21.1240834 30.7341611 21.1240834 30.7341611 24.6203016 11.3217549 24.6203016"></polygon>
+                </g>
+                <g id="Group-15" opacity="0.834491548" transform="translate(100.000000, 219.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="18" cy="18" r="18"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="18" cy="18" r="15.3333333"></circle>
+                    <g id="Group-12" transform="translate(4.666667, 4.666667)" fill="url(#radialGradient-11)">
+                        <ellipse id="Oval" cx="13.2350532" cy="13.3286683" rx="13.2350532" ry="13.3286683"></ellipse>
+                    </g>
+                    <polygon id="Rectangle" fill="#30933B" transform="translate(18.023964, 15.357297) rotate(-45.000000) translate(-18.023964, -15.357297) " points="9.70436133 9.61147896 12.5772705 9.61147896 12.5772705 18.1063572 26.3435667 18.1063572 26.3435667 21.1031157 9.70436133 21.1031157"></polygon>
+                </g>
+                <g id="Group-15" opacity="0.877406529" transform="translate(24.000000, 176.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="21.5" cy="21.5" r="21.5"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="21.5" cy="21.5" r="18.3148148"></circle>
+                    <g id="Group-12" transform="translate(5.574074, 5.574074)" fill="url(#radialGradient-12)">
+                        <ellipse id="Oval" cx="15.8085358" cy="15.9203538" rx="15.8085358" ry="15.9203538"></ellipse>
+                    </g>
+                    <polygon id="Rectangle" fill="#30933B" transform="translate(21.528624, 18.343438) rotate(-45.000000) translate(-21.528624, -18.343438) " points="11.5913205 11.4803776 15.0228509 11.4803776 15.0228509 21.6270377 31.4659268 21.6270377 31.4659268 25.2064993 11.5913205 25.2064993"></polygon>
+                </g>
+                <g id="Group-15" opacity="0.69480678" transform="translate(42.000000, 245.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="13.5" cy="13.5" r="13.5"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="13.5" cy="13.5" r="11.5"></circle>
+                    <g id="Group-12" transform="translate(3.500000, 3.500000)" fill="url(#radialGradient-13)">
+                        <ellipse id="Oval" cx="9.92628993" cy="9.99650122" rx="9.92628993" ry="9.99650122"></ellipse>
+                    </g>
+                    <polygon id="Rectangle" fill="#30933B" transform="translate(13.517973, 11.517973) rotate(-45.000000) translate(-13.517973, -11.517973) " points="7.27827099 7.20860922 9.43295288 7.20860922 9.43295288 13.5797679 19.757675 13.5797679 19.757675 15.8273368 7.27827099 15.8273368"></polygon>
+                </g>
+                <g id="Group-15" opacity="0.69480678" transform="translate(170.000000, 259.000000)">
+                    <circle id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="11" cy="11" r="11"></circle>
+                    <circle id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="11" cy="11" r="9.37037037"></circle>
+                    <g id="Group-12" transform="translate(2.851852, 2.851852)" fill="url(#radialGradient-14)">
+                        <ellipse id="Oval" cx="8.08808809" cy="8.14529729" rx="8.08808809" ry="8.14529729"></ellipse>
+                    </g>
+                    <polygon id="Rectangle" fill="#30933B" transform="translate(11.014645, 9.385015) rotate(-45.000000) translate(-11.014645, -9.385015) " points="5.93044303 5.87368159 7.68610976 5.87368159 7.68610976 11.064996 16.0988463 11.064996 16.0988463 12.8963485 5.93044303 12.8963485"></polygon>
+                </g>
+                <text id="Vote" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="23" font-weight="400" letter-spacing="0.1592308" fill="#FFFFFF" text-decoration="underline">
+                    <tspan x="31.2445384" y="36">Vote</tspan>
+                </text>
+                <text id="Users-like-content-a" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="15" font-weight="300" letter-spacing="0.1038462" fill="#FFFFFF">
+                    <tspan x="31.4381625" y="61.8745583">Users like content as </tspan>
+                    <tspan x="31.4381625" y="79.8745583">usual</tspan>
+                </text>
+            </g>
+            <g id="Group-17" transform="translate(504.000000, 70.000000)">
+                <path d="M22,0 L219,0 C231.150264,-2.23196738e-15 241,9.8497355 241,22 L241,264 L0,264 L0,22 C-1.48797825e-15,9.8497355 9.8497355,2.23196738e-15 22,0 Z" id="Rectangle" fill="url(#linearGradient-15)"></path>
+                <g id="Group-15" transform="translate(22.000000, 112.000000)">
+                    <ellipse id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="27" cy="28" rx="27" ry="28"></ellipse>
+                    <ellipse id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="27" cy="28" rx="23" ry="23.8518519"></ellipse>
+                    <g id="Group-12" transform="translate(7.000000, 7.259259)" fill="url(#radialGradient-16)">
+                        <ellipse id="Oval" cx="19.8525799" cy="20.733484" rx="19.8525799" ry="20.733484"></ellipse>
+                    </g>
+                    <g id="dollar-sign-symbol-bold-text-svgrepo-com" transform="translate(18.000000, 12.000000)" fill="#D8D8D8" fill-rule="nonzero">
+                        <path d="M17.26,20.34 C17.26,23.76 14.837,26.682 10.415,27.451 L10.415,31.371 L6.647,31.371 L6.647,27.723 C4.069,27.606 1.571,26.912 0.11,26.069 L1.264,21.569 C2.879,22.455 5.147,23.262 7.647,23.262 C9.838,23.262 11.338,22.414 11.338,20.877 C11.338,19.416 10.108,18.488 7.261,17.529 C3.149,16.144 0.34,14.223 0.34,10.496 C0.34,7.11 2.725,4.461 6.839,3.651 L6.839,0 L10.606,0 L10.606,3.383 C13.182,3.498 14.915,4.035 16.182,4.651 L15.067,8.999 C14.07,8.575 12.3,7.688 9.531,7.688 C7.031,7.688 6.224,8.764 6.224,9.842 C6.224,11.11 7.57,11.916 10.837,13.149 C15.416,14.762 17.26,16.877 17.26,20.34 Z" id="Path"></path>
+                    </g>
+                </g>
+                <g id="Group-15" opacity="0.751258487" transform="translate(99.000000, 161.000000)">
+                    <ellipse id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="22" cy="22.8148148" rx="22" ry="22.8148148"></ellipse>
+                    <ellipse id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="22" cy="22.8148148" rx="18.7407407" ry="19.4348422"></ellipse>
+                    <g id="Group-12" transform="translate(5.703704, 5.914952)" fill="url(#radialGradient-17)">
+                        <ellipse id="Oval" cx="16.1761762" cy="16.8939499" rx="16.1761762" ry="16.8939499"></ellipse>
+                    </g>
+                    <g id="dollar-sign-symbol-bold-text-svgrepo-com" transform="translate(14.666667, 9.777778)" fill="#D8D8D8" fill-rule="nonzero">
+                        <path d="M14.0637037,16.5733333 C14.0637037,19.36 12.0894074,21.7408889 8.4862963,22.3674815 L8.4862963,25.5615556 L5.41607407,25.5615556 L5.41607407,22.5891111 C3.31548148,22.4937778 1.28007407,21.9282963 0.0896296296,21.2414074 L1.02992593,17.5747407 C2.34585185,18.2966667 4.19385185,18.9542222 6.23088889,18.9542222 C8.01614815,18.9542222 9.23837037,18.2632593 9.23837037,17.0108889 C9.23837037,15.8204444 8.23614815,15.0642963 5.91637037,14.2828889 C2.56585185,13.1543704 0.277037037,11.5891111 0.277037037,8.5522963 C0.277037037,5.79333333 2.22037037,3.63488889 5.57251852,2.97488889 L5.57251852,0 L8.64192593,0 L8.64192593,2.75651852 C10.7408889,2.85022222 12.152963,3.28777778 13.1853333,3.7897037 L12.2768148,7.33251852 C11.4644444,6.98703704 10.0222222,6.2642963 7.766,6.2642963 C5.72896296,6.2642963 5.07140741,7.14103704 5.07140741,8.01940741 C5.07140741,9.05259259 6.16814815,9.70933333 8.83014815,10.714 C12.5611852,12.0282963 14.0637037,13.7516296 14.0637037,16.5733333 Z" id="Path"></path>
+                    </g>
+                </g>
+                <g id="Group-15" transform="translate(149.000000, 98.000000)">
+                    <ellipse id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="27" cy="28" rx="27" ry="28"></ellipse>
+                    <ellipse id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="27" cy="28" rx="23" ry="23.8518519"></ellipse>
+                    <g id="Group-12" transform="translate(7.000000, 7.259259)" fill="url(#radialGradient-16)">
+                        <ellipse id="Oval" cx="19.8525799" cy="20.733484" rx="19.8525799" ry="20.733484"></ellipse>
+                    </g>
+                    <g id="dollar-sign-symbol-bold-text-svgrepo-com" transform="translate(18.000000, 12.000000)" fill="#D8D8D8" fill-rule="nonzero">
+                        <path d="M17.26,20.34 C17.26,23.76 14.837,26.682 10.415,27.451 L10.415,31.371 L6.647,31.371 L6.647,27.723 C4.069,27.606 1.571,26.912 0.11,26.069 L1.264,21.569 C2.879,22.455 5.147,23.262 7.647,23.262 C9.838,23.262 11.338,22.414 11.338,20.877 C11.338,19.416 10.108,18.488 7.261,17.529 C3.149,16.144 0.34,14.223 0.34,10.496 C0.34,7.11 2.725,4.461 6.839,3.651 L6.839,0 L10.606,0 L10.606,3.383 C13.182,3.498 14.915,4.035 16.182,4.651 L15.067,8.999 C14.07,8.575 12.3,7.688 9.531,7.688 C7.031,7.688 6.224,8.764 6.224,9.842 C6.224,11.11 7.57,11.916 10.837,13.149 C15.416,14.762 17.26,16.877 17.26,20.34 Z" id="Path"></path>
+                    </g>
+                </g>
+                <g id="Group-15" opacity="0.836710612" transform="translate(37.000000, 207.000000)">
+                    <ellipse id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="19.5" cy="20.2222222" rx="19.5" ry="20.2222222"></ellipse>
+                    <ellipse id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="19.5" cy="20.2222222" rx="16.6111111" ry="17.2263374"></ellipse>
+                    <g id="Group-12" transform="translate(5.055556, 5.242798)" fill="url(#radialGradient-18)">
+                        <ellipse id="Oval" cx="14.3379743" cy="14.9741829" rx="14.3379743" ry="14.9741829"></ellipse>
+                    </g>
+                    <g id="dollar-sign-symbol-bold-text-svgrepo-com" transform="translate(13.000000, 8.666667)" fill="#D8D8D8" fill-rule="nonzero">
+                        <path d="M12.4655556,14.69 C12.4655556,17.16 10.7156111,19.2703333 7.52194444,19.8257222 L7.52194444,22.6568333 L4.80061111,22.6568333 L4.80061111,20.0221667 C2.93872222,19.9376667 1.13461111,19.4364444 0.0794444444,18.8276111 L0.912888889,15.5776111 C2.07927778,16.2175 3.71727778,16.8003333 5.52283333,16.8003333 C7.10522222,16.8003333 8.18855556,16.1878889 8.18855556,15.0778333 C8.18855556,14.0226667 7.30022222,13.3524444 5.24405556,12.6598333 C2.27427778,11.6595556 0.245555556,10.2721667 0.245555556,7.58044444 C0.245555556,5.135 1.96805556,3.22183333 4.93927778,2.63683333 L4.93927778,0 L7.65988889,0 L7.65988889,2.44327778 C9.52033333,2.52633333 10.7719444,2.91416667 11.687,3.35905556 L10.8817222,6.49927778 C10.1616667,6.19305556 8.88333333,5.55244444 6.8835,5.55244444 C5.07794444,5.55244444 4.49511111,6.32955556 4.49511111,7.10811111 C4.49511111,8.02388889 5.46722222,8.606 7.82672222,9.4965 C11.1337778,10.6614444 12.4655556,12.1889444 12.4655556,14.69 Z" id="Path"></path>
+                    </g>
+                </g>
+                <g id="Group-15" opacity="0.836710612" transform="translate(156.000000, 201.000000)">
+                    <ellipse id="Oval" stroke-opacity="0.430049443" stroke="#5C4FA5" fill-opacity="0.36395221" fill="#6053A5" cx="19.5" cy="20.2222222" rx="19.5" ry="20.2222222"></ellipse>
+                    <ellipse id="Oval" stroke="#5C4FA5" fill-opacity="0.600365699" fill="#6053A5" cx="19.5" cy="20.2222222" rx="16.6111111" ry="17.2263374"></ellipse>
+                    <g id="Group-12" transform="translate(5.055556, 5.242798)" fill="url(#radialGradient-18)">
+                        <ellipse id="Oval" cx="14.3379743" cy="14.9741829" rx="14.3379743" ry="14.9741829"></ellipse>
+                    </g>
+                    <g id="dollar-sign-symbol-bold-text-svgrepo-com" transform="translate(13.000000, 8.666667)" fill="#D8D8D8" fill-rule="nonzero">
+                        <path d="M12.4655556,14.69 C12.4655556,17.16 10.7156111,19.2703333 7.52194444,19.8257222 L7.52194444,22.6568333 L4.80061111,22.6568333 L4.80061111,20.0221667 C2.93872222,19.9376667 1.13461111,19.4364444 0.0794444444,18.8276111 L0.912888889,15.5776111 C2.07927778,16.2175 3.71727778,16.8003333 5.52283333,16.8003333 C7.10522222,16.8003333 8.18855556,16.1878889 8.18855556,15.0778333 C8.18855556,14.0226667 7.30022222,13.3524444 5.24405556,12.6598333 C2.27427778,11.6595556 0.245555556,10.2721667 0.245555556,7.58044444 C0.245555556,5.135 1.96805556,3.22183333 4.93927778,2.63683333 L4.93927778,0 L7.65988889,0 L7.65988889,2.44327778 C9.52033333,2.52633333 10.7719444,2.91416667 11.687,3.35905556 L10.8817222,6.49927778 C10.1616667,6.19305556 8.88333333,5.55244444 6.8835,5.55244444 C5.07794444,5.55244444 4.49511111,6.32955556 4.49511111,7.10811111 C4.49511111,8.02388889 5.46722222,8.606 7.82672222,9.4965 C11.1337778,10.6614444 12.4655556,12.1889444 12.4655556,14.69 Z" id="Path"></path>
+                    </g>
+                </g>
+                <text id="Reward" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="23" font-weight="400" letter-spacing="0.1592308" fill="#FFFFFF" text-decoration="underline">
+                    <tspan x="29.8238076" y="32">Reward</tspan>
+                </text>
+                <text id="Each-epochs,-the-eco" font-family="HelveticaNeue-Light, Helvetica Neue" font-size="15" font-weight="300" letter-spacing="0.1038462" fill="#FFFFFF">
+                    <tspan x="31" y="60">Each epochs, the ecosystem </tspan>
+                    <tspan x="31" y="78">rewards the players </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
